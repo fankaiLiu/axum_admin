@@ -1,0 +1,11 @@
+# BaseInfoGetUserTagByIdRespData
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**tag** | Option<[**crate::models::OfficeTag**](OfficeTag.md)> |  | [optional]
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

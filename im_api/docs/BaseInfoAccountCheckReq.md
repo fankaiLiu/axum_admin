@@ -1,0 +1,12 @@
+# BaseInfoAccountCheckReq
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**check_user_id_list** | **Vec<String>** |  | 
+**operation_id** | **String** |  | 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
